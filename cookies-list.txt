@@ -1,7 +1,39 @@
-! Title: Accept cookies block list
-! Version: 2018071201
+! Title: Block cookies & GDPR popups 
+! Version: 2018071202
 ! Expires: 7 days
 
-! 7/12/2018, 9:20:36 PM https://innogy.pl/
+bankier.pl###cookiepolicydiv
+cdp.pl##.container.cookie-container
+cinema-city.pl##.cookies.dark
+euro.com.pl###cookie-bar
+fly4free.com##.cookie-info-show.cookie-info
+fly4free.pl##.cookies
 innogy.pl###cookie-wall-container
+justjoin.it##cookies-footer
+lot.com###cookies
+mbank.pl###cookie-info
+medicover.pl##.eupopup-color-default.eupopup-container-bottomright.eupopup-container
+miles-and-more.com##.cp-privacy
+multikino.pl##.active.cookie-msg
+nofluffjobs.com##.ng-isolate-scope.ng-scope.cookie-information
+sklepsamsung.pl###js-cookieInfo
+skyscanner.*###cookie-banner-root
+stackoverflow.com###js-gdpr-consent-banner
+superuser.com###js-gdpr-consent-banner
+tanie-loty.com.pl###rodo_info_placeholder
+tesco.pl##.cookie-policy
+theverge.com###privacy-consent
+tvp.pl##.tvp-cookie-overlay
+twitch.tv##.tw-theme--dark.tw-flex-shrink-0
+upc.pl##.dmg-cookie-info
+x-kom.pl###popup-cookie
 
+# AWS docs
+docs.aws.amazon.com###cookie-notice
+
+# PayU payments
+secure.payu.com##div:nth-of-type(3) > section
+
+# Facebook
+www.facebook.com###u_0_e
+www.facebook.com###u_0_c

@@ -1,0 +1,7 @@
+! Title: Accept cookies block list
+! Version: 2018071201
+! Expires: 7 days
+
+! 7/12/2018, 9:20:36 PM https://innogy.pl/
+innogy.pl###cookie-wall-container
+

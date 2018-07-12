@@ -1,5 +1,5 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2018071203
+! Version: 2018071204
 ! Expires: 7 days
 
 bankier.pl###cookiepolicydiv
@@ -16,6 +16,8 @@ medicover.pl##.eupopup-color-default.eupopup-container-bottomright.eupopup-conta
 miles-and-more.com##.cp-privacy
 multikino.pl##.active.cookie-msg
 nofluffjobs.com##.ng-isolate-scope.ng-scope.cookie-information
+onet.pl##.cmp-app_gdpr
+onet.pl##body.cmp:style(overflow: auto !important;)
 sklepsamsung.pl###js-cookieInfo
 skyscanner.*###cookie-banner-root
 stackoverflow.com###js-gdpr-consent-banner

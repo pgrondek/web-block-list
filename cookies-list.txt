@@ -1,5 +1,5 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2018071202
+! Version: 2018071203
 ! Expires: 7 days
 
 bankier.pl###cookiepolicydiv

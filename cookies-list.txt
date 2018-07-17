@@ -1,5 +1,5 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2018071501
+! Version: 2018071701
 ! Expires: 7 days
 
 allegro.pl##._cgwqr._4f735_2XS1Q._1yq7e._1ar9d._1rktk
@@ -7,6 +7,7 @@ allegro.pl##body:style(overflow: auto !important)
 bankier.pl###cookiepolicydiv
 cdp.pl##.container.cookie-container
 cinema-city.pl##.cookies.dark
+doodle.com##.d-warning.d-nag
 euro.com.pl###cookie-bar
 fly4free.com##.cookie-info-show.cookie-info
 fly4free.pl##.cookies

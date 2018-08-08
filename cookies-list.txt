@@ -1,6 +1,6 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2018071701
-! Expires: 7 days
+! Version: 2018080801
+! Expires: 2 days
 
 allegro.pl##._cgwqr._4f735_2XS1Q._1yq7e._1ar9d._1rktk
 allegro.pl##body:style(overflow: auto !important)
@@ -21,6 +21,8 @@ multikino.pl##.active.cookie-msg
 nofluffjobs.com##.ng-isolate-scope.ng-scope.cookie-information
 onet.pl##.cmp-app_gdpr
 onet.pl##body.cmp:style(overflow: auto !important;)
+segmentnext.com##.qc-cmp-showing.qc-cmp-ui-container
+segmentnext.com##body.qc-cmp-ui-showing:stype(overflow: auto !important;)
 sklepsamsung.pl###js-cookieInfo
 skyscanner.*###cookie-banner-root
 stackoverflow.com###js-gdpr-consent-banner

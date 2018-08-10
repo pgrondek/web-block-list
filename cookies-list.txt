@@ -1,5 +1,5 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2018081001
+! Version: 2018081002
 ! Expires: 1 day
 
 allegro.pl##._cgwqr._4f735_2XS1Q._1yq7e._1ar9d._1rktk
@@ -19,6 +19,7 @@ mbank.pl###cookie-info
 medicover.pl##.eupopup-color-default.eupopup-container-bottomright.eupopup-container
 miles-and-more.com##.cp-privacy
 multikino.pl##.active.cookie-msg
+naszemiasto.pl###cross-dialog
 nofluffjobs.com##.ng-isolate-scope.ng-scope.cookie-information
 onet.pl##.cmp-app_gdpr
 onet.pl##body.cmp:style(overflow: auto !important;)

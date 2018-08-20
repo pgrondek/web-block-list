@@ -1,5 +1,5 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2018072001
+! Version: 2018082101
 ! Expires: 1 day
 
 allegro.pl##._cgwqr._4f735_2XS1Q._1yq7e._1ar9d._1rktk
@@ -9,6 +9,7 @@ cdp.pl##.container.cookie-container
 cinema-city.pl##.cookies.dark
 doodle.com##.d-warning.d-nag
 euro.com.pl###cookie-bar
+flightradar24.com##.important-banner--cookies.important-banner
 fly4free.com##.cookie-info-show.cookie-info
 fly4free.pl##.cookies
 gitlab.com###CybotCookiebotDialog
@@ -19,9 +20,12 @@ mbank.pl###cookie-info
 medicover.pl##.eupopup-color-default.eupopup-container-bottomright.eupopup-container
 miles-and-more.com##.cp-privacy
 multikino.pl##.active.cookie-msg
+naszemiasto.pl###cross-dialog
 nofluffjobs.com##.ng-isolate-scope.ng-scope.cookie-information
 onet.pl##.cmp-app_gdpr
 onet.pl##body.cmp:style(overflow: auto !important;)
+segmentnext.com##.qc-cmp-showing.qc-cmp-ui-container
+segmentnext.com##body.qc-cmp-ui-showing:stype(overflow: auto !important;)
 sklepsamsung.pl###js-cookieInfo
 skyscanner.*###cookie-banner-root
 stackoverflow.com###js-gdpr-consent-banner

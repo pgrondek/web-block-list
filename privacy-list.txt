@@ -1,0 +1,6 @@
+! Title: Enhance privacy
+! Version: 2018121001
+! Expires: 1 day
+
+# Youtube
+*.youtube.com/youtubei/v1/log_event?*

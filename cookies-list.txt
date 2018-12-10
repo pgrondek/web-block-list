@@ -1,7 +1,9 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2018082103
+! Version: 2018121001
 ! Expires: 1 day
 
+accuweather.com##.fc-consent-root
+accuweather.com###eu-cookie-notify-wrap
 allegro.pl##div[data-prototype-id="allegro.rodoConsentModal"]
 allegro.pl##body:style(overflow: auto !important)
 bankier.pl###cookiepolicydiv
@@ -49,3 +51,14 @@ secure.payu.com##div:nth-of-type(3) > section
 # Facebook
 www.facebook.com###u_0_e
 www.facebook.com###u_0_c
+
+# Google
+developers.google.com##.devsite-notification-eu-cookie
+google.com##div[jsl="$t t--xVEiZIk2yQ;$x 0;"]
+
+# Youtube
+youtube.com###ticker
+
+# Truste
+##.truste_overlay
+##.truste_box_overlay

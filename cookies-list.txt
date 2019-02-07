@@ -1,5 +1,5 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2019020701
+! Version: 2019020702
 ! Expires: 1 day
 
 accuweather.com##.fc-consent-root
@@ -31,7 +31,7 @@ onet.pl##.cmp-app_gdpr
 onet.pl##body.cmp:style(overflow: auto !important;)
 pkobp.pl##div[id="cookie-rodo-V4-first"]
 pkobp.pl##.animating.rodo-not-small-modal.offset.no-icon.fixed.overlay.js-ajax-overlay
-playstation.com##privacy-header
+playstation.com###privacy-header
 prawdaobiektywna.pl##.qc-cmp-showing.qc-cmp-ui-container
 prawdaobiektywna.pl##.qc-cmp-ui-showing:style(overflow: auto !important;)
 segmentnext.com##.qc-cmp-showing.qc-cmp-ui-container

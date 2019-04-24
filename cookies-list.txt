@@ -1,5 +1,5 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2019041702
+! Version: 2019042401
 ! Expires: 1 day
 
 accuweather.com##.fc-consent-root
@@ -37,6 +37,8 @@ prawdaobiektywna.pl##.qc-cmp-showing.qc-cmp-ui-container
 prawdaobiektywna.pl##.qc-cmp-ui-showing:style(overflow: auto !important;)
 segmentnext.com##.qc-cmp-showing.qc-cmp-ui-container
 segmentnext.com##body.qc-cmp-ui-showing:style(overflow: auto !important;)
+sonos.com###optanon
+sonos.com###center-tile-banner-popup
 sklepsamsung.pl###js-cookieInfo
 skyscanner.*###cookie-banner-root
 stackoverflow.com###js-gdpr-consent-banner

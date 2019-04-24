@@ -1,5 +1,5 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2019042401
+! Version: 2019042402
 ! Expires: 1 day
 
 accuweather.com##.fc-consent-root
@@ -46,6 +46,8 @@ superuser.com###js-gdpr-consent-banner
 tanie-loty.com.pl###rodo_info_placeholder
 tesco.pl##.cookie-policy
 theverge.com###privacy-consent
+tvn24bis.pl###rodoLayer
+tvn24.pl###rodoLayer
 tvp.pl##.tvp-cookie-overlay
 twitch.tv##.gdpr-consent-banner
 upc.pl##.dmg-cookie-info

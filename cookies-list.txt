@@ -1,5 +1,5 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2019042402
+! Version: 2019050101
 ! Expires: 1 day
 
 accuweather.com##.fc-consent-root
@@ -16,10 +16,9 @@ flightradar24.com##.important-banner--cookies.important-banner
 fly4free.com##.cookie-info-show.cookie-info
 fly4free.pl##.cookies
 gitlab.com###CybotCookiebotDialog
-google.com###consent-bump
-google.com###lb
-google.com##.nsc:style(overflow: auto !important;)
 innogy.pl###cookie-wall-container
+innogy.pl##body:style(overflow: auto !important;)
+innogygo.pl###cookie_wall
 justjoin.it##cookies-footer
 lot.com###cookies
 mbank.pl###cookie-info
@@ -65,7 +64,10 @@ www.facebook.com###u_0_c
 
 # Google
 developers.google.com##.devsite-notification-eu-cookie
-google.com##div[jsl="$t t--xVEiZIk2yQ;$x 0;"]
+google.*##div[jsl="$t t--xVEiZIk2yQ;$x 0;"]
+google.*###consent-bump
+google.*###lb
+google.*##.nsc:style(overflow: auto !important;)
 
 # Youtube
 youtube.com###ticker

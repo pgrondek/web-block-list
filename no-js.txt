@@ -1,0 +1,6 @@
+! Title: Blocking notification about disabled js
+! Version: 2019080901
+! Expires: 1 day
+
+stackoverflow.com###noscript-warning
+stackoverflow.com##header:style(margin-top: 0em !important)

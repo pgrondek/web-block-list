@@ -1,5 +1,5 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2019072001
+! Version: 2019081301
 ! Expires: 1 day
 
 accuweather.com##.fc-consent-root
@@ -25,6 +25,8 @@ mbank.pl###cookie-info
 medicover.pl##.eupopup-color-default.eupopup-container-bottomright.eupopup-container
 miles-and-more.com##.cp-privacy
 multikino.pl##.active.cookie-msg
+multikino.pl##html:style(overflow: auto !important)
+multikino.pl##body:style(position: inherit !important)
 naszemiasto.pl###cross-dialog
 nofluffjobs.com##.ng-isolate-scope.ng-scope.cookie-information
 onet.pl##.cmp-app_gdpr

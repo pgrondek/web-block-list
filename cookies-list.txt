@@ -1,5 +1,5 @@
 ! Title: Block cookies & GDPR popups 
-! Version: 2019081301
+! Version: 2019082701
 ! Expires: 1 day
 
 accuweather.com##.fc-consent-root
@@ -72,7 +72,7 @@ developers.google.com##.devsite-notification-eu-cookie
 google.*##div[jsl="$t t--xVEiZIk2yQ;$x 0;"]
 google.*###consent-bump
 google.*###lb
-google.*##.nsc:style(overflow: auto !important;)
+google.*##html:style(overflow: auto !important;)
 
 # Youtube
 youtube.com###ticker
